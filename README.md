@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## 定量的マクロ経済学と数値計算
+
+北尾早霧、砂川武貴、山田知明「定量的マクロ経済学と数値計算」(日本評論社、近刊)のサポートページです。
+
+教科書で利用したコードなどをダウンロードできます。
 
 You can use the [editor on GitHub](https://github.com/quant-macro-book/quant-macro-book.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
