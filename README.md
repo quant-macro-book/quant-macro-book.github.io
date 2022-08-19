@@ -11,7 +11,7 @@
 |  基礎編 |||||||
 |  Ch. 2. |  [download zip file](https://github.com/quant-macro-book/chapter2/archive/refs/heads/master.zip)  |  [link to Github site](https://github.com/quant-macro-book/chapter2/tree/master/Matlab)  |  TD  |  TD  |  TD  |  TD  |
 |  Ch. 3. |  TD  |  TD  |  TD  |  TD  |  TD  |  TD  |
-|  Ch. 4. |  TD  |  TD  |  [link to Google Colab](https://colab.research.google.com/github/quant-macro-book/Colab/blob/main/chapter4/1_TI_Optimization.ipynb)  |  TD  |  TD  |  TD  |
+|  Ch. 4. |  TD  |  TD  |  link to Google Colab<br>[4-1](https://colab.research.google.com/github/quant-macro-book/Colab/blob/main/chapter4/1_TI_Optimization.ipynb)<br>[4-2](https://colab.research.google.com/github/quant-macro-book/Colab/blob/main/chapter4/2_how_to_interpolation_cheb.ipynb)  |  TD  |  TD  |  TD  |
 |  応用編 |||||||
 |  Ch. 5. |  TD  |  TD  |  TD  |  TD  |  TD  |  TD  |
 |  Ch. 6. |  TD  |  TD  |  TD  |  TD  |  TD  |  TD  |
