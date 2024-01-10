@@ -30,7 +30,7 @@
 |  Ch. 5. |  [link to Github](https://github.com/quant-macro-book/chapter5/tree/master/MATLAB)  |  ---  |  [link to Github](https://github.com/quant-macro-book/chapter5/tree/master/Julia)  |  ---  |  ---  |
 |  Ch. 6. |  [link to Github](https://github.com/quant-macro-book/chapter6/tree/master/MATLAB)  |  ---  |  [link to Github](https://github.com/quant-macro-book/chapter6/tree/master/Julia)  |  ---  |  ---  |
 |  Ch. 7. |  [link to Github](https://github.com/quant-macro-book/chapter7/tree/master/Matlab)  |  ---  |  [link to Github](https://github.com/quant-macro-book/chapter7/tree/master/Julia)  |  ---  |  ---  |
-|  Ch. 8. |  クルセル=スミスモデル<br>[link to Github](https://github.com/quant-macro-book/chapter8/tree/master/Matlab_KS)<br>  HANKモデル<br>[link to Github](https://github.com/quant-macro-book/chapter8/tree/master/Matlab)  |  ---  |  HANKモデル<br>[link to Github](https://github.com/quant-macro-book/chapter8/tree/master/Julia)  |  ---  |  クルセル=スミスモデル<br>[link to Github](https://github.com/quant-macro-book/chapter8/tree/master/Fortran_KS)  |
+|  Ch. 8. |  クルセル=スミスモデル<br>[link to Github](https://github.com/quant-macro-book/chapter8/tree/master/MATLAB_KS)<br>  HANKモデル<br>[link to Github](https://github.com/quant-macro-book/chapter8/tree/master/MATLAB_HANK)  |  ---  |  HANKモデル<br>[link to Github](https://github.com/quant-macro-book/chapter8/tree/master/Julia)  |  ---  |  クルセル=スミスモデル<br>[link to Github](https://github.com/quant-macro-book/chapter8/tree/master/Fortran_KS)  |
 
 ### 一括ダウンロード
 
