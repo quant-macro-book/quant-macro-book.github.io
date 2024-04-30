@@ -34,8 +34,10 @@
 
 ### 一括ダウンロード
 
-一括ですべてのコードを入手したい場合、[ここ](https://github.com/quant-macro-book/quant-macro-book.github.io)
+一括ですべてのコードを入手したい場合、[ここ](https://github.com/quant-macro-book/quant-macro-book.github.io)からダウンロードできます。
 
 ### インストールと環境構築
 
-### Support or Contact
+各種プログラミング言語のインストールと環境設定については[ここ](https://tyamada.notion.site/9e47200380424b4ab29375d2c61c2da9?pvs=4)を参考にしてください。
+
+### Contact
