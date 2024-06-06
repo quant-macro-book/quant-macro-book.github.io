@@ -15,7 +15,7 @@
 |  応用編 ||||||
 |  Ch. 5. |  [link to GitHub](https://github.com/quant-macro-book/chapter5/tree/master/MATLAB)  |  [link to GitHub](https://github.com/quant-macro-book/chapter5/tree/master/Python)  |  [link to GitHub](https://github.com/quant-macro-book/chapter5/tree/master/Julia)  |  ---  |  ---  |
 |  Ch. 6. |  [link to GitHub](https://github.com/quant-macro-book/chapter6/tree/master/MATLAB)  |  ---  |  [link to GitHub](https://github.com/quant-macro-book/chapter6/tree/master/Julia)  |  ---  |  ---  |
-|  Ch. 7. |  [link to GitHub](https://github.com/quant-macro-book/chapter7/tree/master/Matlab)  |  [link to GitHub](https://github.com/quant-macro-book/chapter7/tree/master/Python)  |  [link to GitHub](https://github.com/quant-macro-book/chapter7/tree/master/Julia)  |  ---  |  ---  |
+|  Ch. 7. |  [link to GitHub](https://github.com/quant-macro-book/chapter7/tree/master/MATLAB)  |  [link to GitHub](https://github.com/quant-macro-book/chapter7/tree/master/Python)  |  [link to GitHub](https://github.com/quant-macro-book/chapter7/tree/master/Julia)  |  ---  |  ---  |
 |  Ch. 8. |  [link to GitHub](https://github.com/quant-macro-book/chapter8/tree/master/MATLAB)  |  ---  |  [link to GitHub](https://github.com/quant-macro-book/chapter8/tree/master/Julia)  |  ---  |  [link to GitHub](https://github.com/quant-macro-book/chapter8/tree/master/Fortran/8_2_Krusell_Smith)  |
 |  付録    |  [link to GitHub](https://github.com/quant-macro-book/appendix/tree/main/MATLAB)  |  [link to GitHub](https://github.com/quant-macro-book/appendix/tree/main/Python)  |  [link to GitHub](https://github.com/quant-macro-book/appendix/tree/main/Julia)  |  ---  |  ---  |
 
