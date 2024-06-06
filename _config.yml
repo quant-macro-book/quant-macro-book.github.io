@@ -1,1 +1,14 @@
+
+markdown: kramdown
 theme: jekyll-theme-slate
+
+title: [定量的マクロ経済学と数値計算]
+description: [日本評論社から出版された『定量的マクロ経済学と数値計算』のサポートサイトです。]
+
+plugins:
+  - jekyll-feed
+
+# カスタムスタイルシートのパスを指定
+sass:
+  load_paths:
+    - _sass

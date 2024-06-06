@@ -1,6 +1,6 @@
 ## 定量的マクロ経済学と数値計算
 
-北尾早霧・砂川武貴・山田知明『[定量的マクロ経済学と数値計算](https://www.nippyo.co.jp/shop/book/9287.html)』(日本評論社）のサポートページです。
+北尾早霧・砂川武貴・山田知明『[定量的マクロ経済学と数値計算](https://www.nippyo.co.jp/shop/book/9287.html)』([日本評論社](https://www.nippyo.co.jp/)）のサポートページです。
 
 教科書で利用したコードをダウンロードできます。
 
@@ -22,11 +22,11 @@
 
 ## 一括ダウンロード
 
-一括ですべてのコードを入手したい場合、<u>[ここ](https://github.com/quant-macro-book/quant-macro-book.github.io)</u>からダウンロードできます。
+一括ですべてのコードを入手したい場合、[ここ](https://github.com/quant-macro-book/quant-macro-book.github.io)からダウンロードできます。
 
 ## インストールと環境構築
 
-各種プログラミング言語のインストールと環境設定については、<u>[ここ](https://tyamada.notion.site/9e47200380424b4ab29375d2c61c2da9?pvs=4)</u>を参考にしてください。
+各種プログラミング言語のインストールと環境設定については、[ここ](https://tyamada.notion.site/9e47200380424b4ab29375d2c61c2da9?pvs=4)を参考にしてください。
 
 ## 著者達のHP
 
