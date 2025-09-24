@@ -27,6 +27,12 @@
 
 各種プログラミング言語のインストールと環境設定については、[ここ](https://tyamada.notion.site/9e47200380424b4ab29375d2c61c2da9?pvs=4)を参考にしてください。
 
+## 正誤情報一覧
+
+本書にて、下記の通り補足説明と訂正がございます。ここにお詫びして訂正いたします。
+
+[正誤表：2025年9月24日](https://tomoakiyamada.github.io/computation/2024_quantmacro/QuantMacroErrata_Sept_24_2025.pdf)
+
 ## 著者達のHP
 
 - [北尾早霧](https://sites.google.com/site/sagirikitao/home)
