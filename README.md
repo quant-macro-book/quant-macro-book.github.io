@@ -31,7 +31,7 @@
 
 本書にて、下記の通り補足説明と訂正がございます。ここにお詫びして訂正いたします。
 
-[正誤表：2025年9月24日](https://tomoakiyamada.github.io/computation/2024_quantmacro/QuantMacroErrata_Sept_24_2025.pdf)
+[正誤表：2025年9月24日](https://tomoakiyamada.github.io/computation/QuantMacroErrata_Sept_24_2025.pdf)
 
 ## 著者達のHP
 
